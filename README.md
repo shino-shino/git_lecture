@@ -26,19 +26,26 @@
 # git
 ## 概要
 ### gitを使う目的
+- 変更箇所がわかる
+- 消したログも残る
+- チーム開発
+- バージョン管理
 
 ### gitの概念
+リモート
+オリジン
 
-### terminal or 
+### terminal or SouceTree(GUI)
 
 ## 実際に使ってみる
 ### 1. クローン clone
 ### 2. ブランチ branch
-### 3. コミット commit & プッシュ push
-### 4. マージ merge
+### 3. アド add /コミット commit & プッシュ push
+### 4. マージ merge (マージリクエスト/プルリク)
 
 ## おすすめ
 ### コミットメッセージ
+https://zenn.dev/itosho/articles/git-commit-message-2023
 
 ### git flow
 
